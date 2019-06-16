@@ -1,0 +1,13 @@
+{
+    "name": "breakout",
+    "main": "main.js",
+    "productName": "Breakout",
+    "description": "Breakout",
+    "author": "Kerim Can Ozkurt",
+    "version": "1.0.0",
+    "dependencies": {},
+    "devDependencies": {
+      "electron": "2.0.7"
+    }
+  }
+  
